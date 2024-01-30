@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Executable>C:\Sergio_Fink\GoogleTest\Math_Project\Math_Project\Debug\Math-Test.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="TestCase1.TestOK" Duration="1" />
+    <TestDuration Test="TestCase2.TestNOK" Duration="1" />
+    <TestDuration Test="TestCaseName.TestName" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>
